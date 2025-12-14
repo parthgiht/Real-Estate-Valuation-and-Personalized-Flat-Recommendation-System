@@ -1,4 +1,4 @@
-# 🏗️ Gurgaon-Real-Estate-Recommendation-System
+# 🏗️ Real-Estate-Price-and-Flats-Recommendation-System
 
 ![image alt](https://github.com/parthgiht/Gurgaon-Real-Estate-Price-and-Flats-Recommender-System/blob/main/Real%20estate.jpg?raw=true)
 
