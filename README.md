@@ -1,4 +1,4 @@
-# 📌 Description of the project
+# Real Estate Valuation and Property Recommendation System 
 
 ![image alt](https://github.com/parthgiht/Gurgaon-Real-Estate-Price-and-Flats-Recommender-System/blob/main/Real%20estate.jpg?raw=true)
 
